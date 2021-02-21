@@ -19,4 +19,4 @@ function generatePassword() {
     }
     return retVal;
 }
-console.log(generatePassword());
+window.alert(generatePassword());
